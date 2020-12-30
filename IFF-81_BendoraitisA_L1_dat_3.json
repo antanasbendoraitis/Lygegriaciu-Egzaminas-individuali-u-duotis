@@ -1,0 +1,29 @@
+{
+  "students": [
+    {"name": "Antanas", "age": 19, "height": 164.95},
+    {"name": "Kazys", "age": 20, "height": 156.65},
+    {"name": "Petras", "age": 23, "height": 155},
+    {"name": "Sonata", "age": 28, "height": 157.13},
+    {"name": "Jonas", "age": 27, "height": 154.95},
+    {"name": "Martynas", "age": 26, "height": 160},
+    {"name": "Arturas", "age": 24, "height": 159.01},
+    {"name": "Vacys", "age": 81, "height": 149.65},
+    {"name": "Robertas", "age": 82, "height": 147},
+    {"name": "Mykolas", "age": 90, "height": 146.95},
+    {"name": "Aldona", "age": 18, "height": 145.13},
+    {"name": "Asta", "age": 15, "height": 144.01},
+    {"name": "Viktoras", "age": 14, "height": 166.65},
+    {"name": "Andrius", "age": 17, "height": 155},
+    {"name": "Vytas", "age": 23, "height": 158.85},
+    {"name": "Jonas", "age": 25, "height": 135.95},
+    {"name": "Zigmas", "age": 26, "height": 155.13},
+    {"name": "Kestas", "age": 27, "height": 167.01},
+    {"name": "Simas", "age": 28, "height": 154.43},
+    {"name": "Kazys", "age": 29, "height": 156.64},
+    {"name": "Petras", "age": 85, "height": 157.43},
+    {"name": "Rita", "age": 86, "height": 165},
+    {"name": "Simas", "age": 87, "height": 164.43},
+    {"name": "Vaciukas", "age": 88, "height": 153.43},
+    {"name": "Juozas", "age": 23, "height": 138}
+  ]
+}

@@ -1,0 +1,7 @@
+--------------------------------------------------------------------
+| Papildyta automatiniu modulių parsiuntimu (jau tai atlikta):     |
+| npm install -D nodemon					   |
+--------------------------------------------------------------------
+| Kad programa veiktų suaktyvinti automatinį modulių parsiuntimą:  |
+| npm install							   |
+--------------------------------------------------------------------
